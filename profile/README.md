@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Welcome to the Simply Jetpacks Organization!
+
+![Simply Jetpacks Logo](https://github.com/simplyjetpacks/.github/blob/main/logo.png?raw=true)
 
 <!--
 
